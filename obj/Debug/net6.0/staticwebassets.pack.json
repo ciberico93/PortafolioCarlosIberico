@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets\\IMAGENES\\foto_up.jpg"
     },
     {
+      "Id": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\IMAGENES\\imgIber-solutions.jpg",
+      "PackagePath": "staticwebassets\\IMAGENES\\imgIber-solutions.jpg"
+    },
+    {
+      "Id": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\IMAGENES\\imgTechVipp.jpg",
+      "PackagePath": "staticwebassets\\IMAGENES\\imgTechVipp.jpg"
+    },
+    {
       "Id": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\css\\custom.css",
       "PackagePath": "staticwebassets\\css\\custom.css"
     },

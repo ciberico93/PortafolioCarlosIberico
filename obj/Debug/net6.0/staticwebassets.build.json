@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "uiRBM935mPtfBZ7vIQlceaY10Dp/tIOpvnxCtF9nG7E=",
+  "Hash": "gSaIFR/1+YyyObpuEsfO9QIK+bJWfo/9ufyHZnb8ub0=",
   "Source": "PORTAFOLIO",
   "BasePath": "_content/PORTAFOLIO",
   "Mode": "Default",
@@ -117,6 +117,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\IMAGENES\\foto_up.jpg"
+    },
+    {
+      "Identity": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\IMAGENES\\imgIber-solutions.jpg",
+      "SourceId": "PORTAFOLIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\",
+      "BasePath": "_content/PORTAFOLIO",
+      "RelativePath": "IMAGENES/imgIber-solutions.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMAGENES\\imgIber-solutions.jpg"
+    },
+    {
+      "Identity": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\IMAGENES\\imgTechVipp.jpg",
+      "SourceId": "PORTAFOLIO",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\",
+      "BasePath": "_content/PORTAFOLIO",
+      "RelativePath": "IMAGENES/imgTechVipp.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMAGENES\\imgTechVipp.jpg"
     },
     {
       "Identity": "D:\\PROYECTOS CARLOS IBERICO MVC\\PORTAFOLIO\\wwwroot\\js\\site.js",
